@@ -1,0 +1,14 @@
+{
+  "nombre": "Laura",
+  "apellido": "Ramírez",
+  "email": "laura.ramirez@example.com",
+  "genero": "Female",
+  "telefono": "3216549870",
+  "fechaNacimiento": "15 August 1992",
+  "materias": "Maths",
+  "hobby": "Music",
+  "imagen": "./src/test/resources/imagenes/Toolsqa.jpg",
+  "direccion": "Cra 45 # 12-67 Bogotá",
+  "estado": "Haryana",
+  "ciudad": "Panipat"
+}
