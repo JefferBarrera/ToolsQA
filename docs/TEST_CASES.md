@@ -6,15 +6,18 @@
 1. Ingresar nombre válido
 2. Ingresar apellido válido
 3. Ingresar email válido
-4. Ingresar teléfono válido
-5. Seleccionar género
-6. Seleccionar al menos un hobby
-7. Seleccionar país, estado y ciudad válidos
-8. Hacer clic en el botón 'Enviar'
+4. Seleccionar género
+5. Ingresar teléfono válido
+6. Seleccionar fecha en el calendario
+7. Ingresar materias deseadas
+8. Seleccionar al menos un hobby
+9. Seleccionar imagen con el boton de 'Seleccionar Archivo'
+10. Seleccionar estado y ciudad válidos
+11. Hacer clic en el botón 'Submit'
 
 **Datos de entrada:** Datos válidos y aleatorios generados dinámicamente
 
-**Resultado esperado:** Se muestra un mensaje de éxito junto con los datos ingresados
+**Resultado esperado:** Se muestra un mensaje de agradecimiento junto con los datos ingresados
 
 ---
 
@@ -73,7 +76,7 @@
 
 **Datos de entrada:** Todos los campos válidos excepto género no seleccionado
 
-**Resultado esperado:** Advertencia visible indicando que se debe seleccionar un género
+**Resultado esperado:** Opciones con color rojo indicando que se debe seleccionar un género
 
 ---
 
@@ -91,7 +94,7 @@
 - Female, Sports, Uttar Pradesh, Lucknow
 - Other, Music, Haryana, Karnal
 
-**Resultado esperado:** Se muestra mensaje de éxito con los datos ingresados
+**Resultado esperado:** Se muestra mensaje de agradecimiento con los datos ingresados
 
 ---
 
@@ -106,6 +109,6 @@
 
 **Datos de entrada:** Datos obtenidos dinámicamente desde API o librería como Java Faker
 
-**Resultado esperado:** Se muestra mensaje de envío exitoso junto con los datos obtenidos desde la API
+**Resultado esperado:** Se muestra mensaje de agradecimiento junto con los datos obtenidos desde la API
 
 ---
